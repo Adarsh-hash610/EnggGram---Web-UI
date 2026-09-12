@@ -4,3 +4,4 @@
 - Installed tailwind CSS
 - Installed daisy UI
 - Added Navbar component to App.jsx
+- Created a separate file for NavBar component
