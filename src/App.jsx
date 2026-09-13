@@ -16,7 +16,7 @@ function App() {
           </Route>
         </Routes>
       </BrowserRouter>
-      <h1>Namaste Indiaa!!</h1>
+      
     </>
   );
 }

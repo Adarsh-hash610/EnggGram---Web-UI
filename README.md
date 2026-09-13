@@ -8,3 +8,4 @@
 - Install react-router
 - Create BrowserRouter > Routes > Route("/") > RouteChildren
 - Create an outlet in body component so as to render the RouteChildren
+- Created a Footer
