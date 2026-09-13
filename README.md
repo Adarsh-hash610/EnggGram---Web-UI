@@ -5,3 +5,6 @@
 - Installed daisy UI
 - Added Navbar component to App.jsx
 - Created a separate file for NavBar component
+- Install react-router
+- Create BrowserRouter > Routes > Route("/") > RouteChildren
+- Create an outlet in body component so as to render the RouteChildren
