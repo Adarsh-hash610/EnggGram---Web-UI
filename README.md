@@ -13,3 +13,6 @@
 - Installed axios for API calls
 - CORS setup - Install cors in backend => add middleware to the configuration: origin, credentials: true
 - On making an API call we have to pass axios =>{ withCredentials: true}
+
+- Install react-redux and react redux toolkit
+- configureStore => Provider => createSlice => add reducer to store
